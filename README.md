@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gsajan21
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I'm a Computer Science student at SFSU.
+- 🌱 I’m currently learning Java, Javascript, SQL, NoSQL
 - 📫 How to reach me: Email:gsajan21@gmail.com
 
 <!---
