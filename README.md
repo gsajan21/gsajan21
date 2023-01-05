@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gsajan21
 - 👀 I'm a Computer Science student at SFSU.
-- 🌱 I’m currently learning Java, Javascript, SQL, NoSQL
+- 🌱 I’m currently learning Java, Spring Frameworks, Spring boot, Javascript, SQL, NoSQL
 - 📫 How to reach me: Email:gsajan21@gmail.com
 
 <!---
