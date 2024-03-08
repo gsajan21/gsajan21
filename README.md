@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Frameworks, Spring boot, Javascript,React,SQL, NoSQL**
 
-- 📫 How to reach me **sajangurung011996@gmail.com**
+- 📫 How to reach me **gsajan21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
