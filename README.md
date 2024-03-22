@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajan Gurung</h1>
 <h3 align="center">Fresh CS Graduate | Problem Solver | Coding with a purpose</h3>
 
-- 🌱 I’m currently learning **Java, Spring Frameworks, Spring boot, Javascript,React,SQL, NoSQL**
+- 🌱 I’m currently learning **Java, Spring Frameworks, Spring boot, Javascript, React, SQL, NoSQL**
 
 - 📫 How to reach me **gsajan21@gmail.com**
 
